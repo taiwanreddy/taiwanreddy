@@ -1,12 +1,19 @@
-# 👋 Hi, I’m Reddy
+# 👋 Hi, I'm Reddy
 
-- 📱 I’m an experienced **Android Developer**, having built and maintained over **25 Android applications** between 2015–2017 across various domains including microfinance and e-commerce.
-- 💻 My responsibilities spanned full app lifecycle — from design, development, and API integration to performance tuning and feature enhancements.
-- 🎓 I hold a **Master’s degree in Computer Science and Information Engineering**, and I'm currently pursuing a **PhD in Edge AI and Cloud Computing** at **Asia University, Taiwan**.
-- 🔬 My current research focuses on **real-time AI model optimization and deployment on edge devices**, with applications in **fall detection**, **accident recognition**, and **smart surveillance systems**.
-- 🧠 I specialize in system-level optimization for latency-critical environments such as **autonomous systems** and **smart IoT ecosystems**.
-- 📚 I’ve implemented **IoT-based home automation**, experimented with **LoRa WAN**, and developed Android apps as part of research prototypes during my Master's and PhD.
-  
-## 📫 How to reach me:
-- Email: [taiwanreddy@gmail.com](mailto:taiwanreddy@gmail.com)
-- Phone: +91 8861163436
+🎓 PhD Researcher | Android Developer | Edge AI Specialist  
+I help researchers, developers, and organizations build **real-time AI systems** for smart surveillance, healthcare, and intelligent transportation.
+
+---
+
+## 📡 Connect with me:
+**GitHub**: [taiwanreddy](https://github.com/taiwanreddy)  
+
+---
+
+## ⚙️ Languages and Tools:
+`python` `pytorch` `tensorflow` `opencv` `android` `java` `kotlin` `flask` `pandas` `scikit-learn`  
+`gradio` `ultralytics` `onnx` `edge devices` `linux` `git` `arduino` `IoT`
+
+---
+
+📈 Let’s build intelligent systems that **think on the edge** 🚀
